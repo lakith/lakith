@@ -382,12 +382,10 @@ I'm always open to discussing new opportunities, innovative projects, or potenti
 
 ## 📝 Notes for Recruiters
 
-✅ **Open to Opportunities**: Actively seeking challenging roles in Full Stack Development, Technical Leadership, or Cloud Architecture  
+✅ **Open to Opportunities**: Seeking challenging roles in Full Stack Development, Technical Leadership, or Cloud Architecture  
 ✅ **Remote Work**: Open to remote, hybrid, or on-site positions  
 ✅ **Relocation**: Available for relocation opportunities  
 ✅ **Contract/Freelance**: Open to contract and freelance projects  
 ✅ **Startups to Enterprise**: Experience working with both startups and large enterprises
 
 ---
-
-*This README is optimized for search engines and recruiters. Keywords are strategically placed for maximum visibility.*
